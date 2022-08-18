@@ -3,5 +3,4 @@
 
 yarn lint-staged
 yarn test:ci
-yarn test:e2e
 yarn build
