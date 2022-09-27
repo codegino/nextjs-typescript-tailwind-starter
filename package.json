@@ -24,7 +24,7 @@
     "@testing-library/jest-dom": "5.16.5",
     "@testing-library/react": "13.4.0",
     "@testing-library/user-event": "14.4.3",
-    "@babel/core": "7.19.1",
+    "@babel/core": "7.19.3",
     "@playwright/test": "1.26.0",
     "@storybook/addon-actions": "6.5.12",
     "@storybook/addon-essentials": "6.5.12",
