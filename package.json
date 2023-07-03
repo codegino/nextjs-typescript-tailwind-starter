@@ -36,7 +36,7 @@
     "@storybook/react": "7.0.25",
     "@storybook/testing-library": "0.2.0",
     "@trivago/prettier-plugin-sort-imports": "4.1.1",
-    "@types/node": "18.16.19",
+    "@types/node": "20.3.3",
     "@types/react": "18.2.14",
     "autoprefixer": "10.4.14",
     "babel-loader": "9.1.2",
