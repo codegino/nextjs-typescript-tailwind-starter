@@ -10,26 +10,26 @@
 ### Install dependencies
 
 ```sh
-yarn install
+pnpm install
 ```
 
 ### Running the application
 
 ```sh
-yarn dev
+pnpm dev
 ```
 
 ### Running "Unit tests"
 
 ```sh
 # For watch mode
-yarn test
+pnpm test
 # For single run
-yarn test:ci
+pnpm test:ci
 ```
 
 ### Running "End to End tests"
 
 ```sh
-yarn test:e2e
+pnpm test:e2e
 ```
