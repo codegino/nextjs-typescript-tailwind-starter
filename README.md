@@ -1,4 +1,4 @@
-# Next.js, TypeScript, Tailwind, Jest, Playwright, Storybook example
+# Next.js, TypeScript, Tailwind, Jest, Playwright example
 
 ## Dependencies
 
@@ -32,10 +32,4 @@ yarn test:ci
 
 ```sh
 yarn test:e2e
-```
-
-### Running Storybook
-
-```sh
-yarn storybook
 ```

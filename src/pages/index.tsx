@@ -7,9 +7,7 @@ const IndexPage = () => (
       Hello Next.js with TypeScript and Tailwind 👋
     </h1>
     <p>
-      <Link href="/about">
-        <a>About</a>
-      </Link>
+      <Link href="/about">About</Link>
     </p>
   </Layout>
 );
