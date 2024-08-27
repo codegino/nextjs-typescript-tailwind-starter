@@ -29,7 +29,7 @@
     "autoprefixer": "10.4.20",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "9.9.1",
-    "eslint-config-next": "14.2.6",
+    "eslint-config-next": "14.2.7",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-jsx-a11y": "6.9.0",
     "eslint-plugin-testing-library": "6.3.0",
