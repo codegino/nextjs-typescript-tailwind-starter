@@ -31,8 +31,8 @@ importers:
         specifier: 14.5.2
         version: 14.5.2(@testing-library/dom@10.0.0)
       '@trivago/prettier-plugin-sort-imports':
-        specifier: 5.0.1
-        version: 5.0.1(prettier@3.4.2)
+        specifier: 5.1.0
+        version: 5.1.0(prettier@3.4.2)
       '@types/node':
         specifier: 22.8.2
         version: 22.8.2
@@ -654,8 +654,8 @@ packages:
     peerDependencies:
       '@testing-library/dom': '>=7.21.4'
 
-  '@trivago/prettier-plugin-sort-imports@5.0.1':
-    resolution: {integrity: sha512-J9D/xdWO3Bm661ql9eSwYAagccGALwjFOVy1Mh1KzF3BAUr7Qd+GBcvtl0rhgN4U4OFWl9nbwXAaoOgPJw84FA==}
+  '@trivago/prettier-plugin-sort-imports@5.1.0':
+    resolution: {integrity: sha512-IlzY6Qxd+T5lLS3JLgaXUMIedFJY2/RB4QlFV3K47l08Z2xIeEIRCMMlvuI/n/4Kjw6ofvq+g3YoBYKidnpJOg==}
     engines: {node: '>18.12'}
     peerDependencies:
       '@vue/compiler-sfc': 3.x
@@ -3788,7 +3788,7 @@ snapshots:
     dependencies:
       '@testing-library/dom': 10.0.0
 
-  '@trivago/prettier-plugin-sort-imports@5.0.1(prettier@3.4.2)':
+  '@trivago/prettier-plugin-sort-imports@5.1.0(prettier@3.4.2)':
     dependencies:
       '@babel/generator': 7.26.2
       '@babel/parser': 7.26.2
